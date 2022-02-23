@@ -1,0 +1,39 @@
+ body{
+
+     background-color: hsl(212, 45%, 89%)
+    
+ }
+
+img{
+height: 300px;
+width: 280px;
+/* border: 2px solid black; */
+border-radius: 10px;
+margin:  auto;
+display: flex;
+
+}
+
+.container{
+    /* border: 5px solid black; */
+    border-radius: 20px;
+    display:block; 
+    text-align: center;
+    margin:50px  auto;
+    width: 280px;
+   background-color: hsl(0, 0%, 100%);
+   padding: 20px;
+       
+}
+.head{
+    font-family: 'Outfit';
+    color: hsl(218, 44%, 22%);
+  padding: 2px;
+    
+}
+.para{
+font-size: 15px;
+font-family: 'Outfit', sans-serif;
+color: hsl(220, 15%, 55%);
+
+}
