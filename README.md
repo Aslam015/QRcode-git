@@ -2,8 +2,6 @@
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
-Working preview = http://127.0.0.1:5501/index.html
-
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
